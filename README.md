@@ -77,9 +77,8 @@ Then, in a new paragraph, list and explain the information that would fix the is
 
 ### Using @mentions
 
-When you raise an issue on a bit of curriculum, please make sure to @ mention the section lead (https://github.com/flatiron-labs/learn-support/blob/master/learn-instructors.md#sections) in charge of that curriculum as well as cc @AnnJohn and @ruthmesfun .
+When you raise an issue on a bit of curriculum, please make sure to @ mention the section lead, in charge of that curriculum as well as cc @AnnJohn and @ruthmesfun.
 
 ## Resources
 
- - [Raising an Issue in the Reference Guide](https://github.com/flatiron-labs/learn-support/blob/master/how-to-raise-an-issue.md)
- 
+* [Section Leads](https://github.com/flatiron-labs/technical-coach-resources/blob/master/section-leads.md) 
