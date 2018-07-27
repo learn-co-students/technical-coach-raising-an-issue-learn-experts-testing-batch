@@ -40,10 +40,10 @@ Let’s look at some bad and better versions of issue titles.
 
 * **Bad example:** HTML tags
 * **Good example:** Series of HTML closing tags rendering as text
----
+
 * **Bad example:**  Hashes, hashes, hashesags
 * **Good example:** Information on hashes that’s needed to complete this lab hasn’t yet been covered
----
+
 * **Bad example:** Cocoa pods
 * **Good example:** Instructions needed on installing cocoa pods
 
