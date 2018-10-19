@@ -77,7 +77,7 @@ Then, in a new paragraph, list and explain the information that would fix the is
 
 ### Using @mentions
 
-When you raise an issue on a bit of curriculum, please make sure to @ mention the section lead, in charge of that curriculum as well as cc @AnnJohn and @ruthmesfun.
+When you raise an issue on a bit of curriculum, please make sure to @mention the Section Lead in charge of that curriculum.
 
 ## Resources
 
