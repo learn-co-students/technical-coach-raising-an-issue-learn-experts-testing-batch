@@ -74,11 +74,3 @@ If you haven’t done so already, specify which files or folders need to be crea
 If not having this missing content produces a bug or a failing test, refer to the section “For bugs and similar issues” on what to include in your issue. If the missing content prevents a student from completing a task, then explain this in detail.
 
 Then, in a new paragraph, list and explain the information that would fix the issue. Wherever possible, include in which sections of the file this information would go, ideally though screenshots, gists, or links. If you feel the information should be in a separate lesson, indicate this and where in the track you feel it belongs.
-
-### Using @mentions
-
-When you raise an issue on a bit of curriculum, please make sure to @mention the Section Lead in charge of that curriculum.
-
-## Resources
-
-* [Section Leads](https://github.com/flatiron-labs/technical-coach-resources/blob/master/section-leads.md) 
